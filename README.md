@@ -30,6 +30,11 @@
 5. **Download:** Get a professional, ATS-friendly English CV with improvement tips!
 
 ---
+<img width="1710" height="946" alt="Screenshot 1447-07-10 at 9 15 10 PM" src="https://github.com/user-attachments/assets/f2958b13-b22a-4b0f-85c0-458f3224aaef" />
+<img width="1710" height="933" alt="Screenshot 1447-07-10 at 9 15 24 PM" src="https://github.com/user-attachments/assets/2c3aa3de-fe7e-4e7e-b6ac-c804a493af1d" />
+
+<img width="1710" height="949" alt="Screenshot 1447-07-10 at 9 15 45 PM" src="https://github.com/user-attachments/assets/f4fdab84-d9a3-48ed-b7f0-b870f8518fac" />
+<img width="1404" height="855" alt="Screenshot 1447-07-10 at 9 16 31 PM" src="https://github.com/user-attachments/assets/e1178d89-94f0-4c1a-a5d0-dd68e26e60f1" /><img width="1228" height="933" alt="Screenshot 1447-07-10 at 9 16 54 PM" src="https://github.com/user-attachments/assets/bf67f957-72d9-4eb2-b02c-6bb87cc8238f" />
 
 
 
