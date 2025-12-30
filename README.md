@@ -31,13 +31,7 @@
 
 ---
 
-## 📦 Getting Started
 
-git clone https://github.com/yourusername/cv-ai.git
-cd cv-ai
-npm install
-npm start      # Starts backend server (Node.js/Express)
-# Open http://localhost:3000 in your browser and you're ready!---
 
 ## 👤 Author
 
